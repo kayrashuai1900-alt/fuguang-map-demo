@@ -1,2 +1,5 @@
-Congratulations! 🎉 Product Manager Kayra’s first AI vibe-coding web deployment is now live!
-V1.2  Published by Claude Code firstly. Added some interactive effects and improved the original page presentation, but it seems the experience has become worse? Why don't you give it a try....
+- V1.2  Published by Claude Code firstly. Added some interactive effects and improved the original page presentation, but it seems the experience has become worse? Why don't you give it a try....
+
+
+  -V1.0  Congratulations! 🎉 Product Manager Kayra’s first AI vibe-coding web deployment is now live!
+
